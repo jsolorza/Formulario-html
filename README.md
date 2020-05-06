@@ -10,7 +10,7 @@ Clonar el proyecto
 # Construido con 🛠️
 
 - Visual Studio Code - Editor de codigo
-- html,hph - Lenguaje de Programacion
+- html,php - Lenguaje de Programacion
 - xampp - Servidor Web
 
 # Autores ✒️
